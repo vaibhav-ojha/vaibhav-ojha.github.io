@@ -1,9 +1,3 @@
----
-title: "About Me"
-menu: "main"
----
-
-
 I am a Ph.D. Candidate in Economics at Boston College.
 
 My research lies at the intersection of labor economics and macroeconomics, with a focus on remote work, wage determination, and selection into labor market sectors. I study how changes in work arrangements affect wage dispersion, productivity, and the allocation of workers across sectors.
