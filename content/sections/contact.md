@@ -1,5 +1,6 @@
-__Email__: [ojhav@bc.edu](mailto:ojhav@bc.edu)  
-__Phone__: +1 (734) 882 3865  
+__LinkedIn__: [vaibhav-ojha-4006691aa](https://www.linkedin.com/in/vaibhav-ojha-4006691aa/)  
+__Email__: [ojhav@bc.edu](mailto:ojhav@bc.edu)
+
 
 ---
 
