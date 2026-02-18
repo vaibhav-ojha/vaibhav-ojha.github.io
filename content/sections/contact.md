@@ -1,7 +1,5 @@
 __LinkedIn__: [vaibhav-ojha-4006691aa](https://www.linkedin.com/in/vaibhav-ojha-4006691aa/)  
 __Email__: [ojhav@bc.edu](mailto:ojhav@bc.edu)
-
-
 ---
 
 ## Collaboration
