@@ -1,5 +1,1 @@
-[Current reason I'm behind on everything](pasha.jpg)
-
-[Fearless Sidekick](muddypaws.jpg) - Kirby passed in Aug 2016
-
-**Website**: I am grateful to [Xinyue Lin](https://xinyue-lin.com/) for building my website. Please feel welcome to use and re-purpose the code for the website, which you can find at my [GitHub repository](https://github.com/gautamrao/gautamrao.github.io). 
+**Website**: This website was inspired by the personal site of Dr. Anna Papp and is built using a template originally created by Dr. Gautam Rao. I am grateful to both for making their work publicly available and for generously sharing their designs. The source code for this website is adapted from Dr. Rao’s GitHub repository and has been customized for my own use [GitHub repository](https://github.com/gautamrao/gautamrao.github.io). 
