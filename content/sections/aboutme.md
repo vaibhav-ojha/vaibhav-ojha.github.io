@@ -6,6 +6,6 @@ My current work examines the remote-work wage gap using U.S. microdata and a Roy
 
 Methodologically, my work employs OLS and IV estimation, Heckman selection models, Oaxaca–Blinder decompositions, and structural estimation via MLE and GMM in MATLAB and Stata.
 
-__[Curriculum Vitae](/pdf/Vaibhav_Ojha_CV.pdf)__
+__[CV](/pdf/Vaibhav_Ojha_CV.pdf)__
 
 
