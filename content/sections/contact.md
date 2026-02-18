@@ -1,10 +1,8 @@
-__Email__: [grao@berkeley.edu](grao@berkeley.edu)  
-__Phone__: +1-734-846-7754  
-__Office__:  F653 (Haas), 507 Evans Hall (Economics)
+__Email__: [ojhav@bc.edu](mailto:ojhav@bc.edu)  
+__Phone__: +1 (734) 882 3865  
 
-__Teaching__  
-EWMBA 201A: Economics for Business Decision Making   
-Econ 219B: Applications of Psychology and Economics (second-year PhD class)
+---
 
-__[Information](/info_for_potential)__ for (potential) advisees
+## Collaboration
 
+I am interested in research collaborations in labor economics, structural modeling, and applied microeconometrics, with an emphasis on projects that speak to labor market equilibrium, aggregate wage dynamics, and the macroeconomic implications of changing work arrangements.
