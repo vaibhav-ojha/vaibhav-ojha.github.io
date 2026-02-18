@@ -1,5 +1,3 @@
-### Teaching Experience
-
 **Boston College**
 
 **Econometrics**
