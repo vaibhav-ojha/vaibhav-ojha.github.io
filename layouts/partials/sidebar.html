@@ -1,10 +1,10 @@
-<p class="contactinfo"><a href="{{ "#bio" | relURL }}">About Me</a></p>
+<p class="contactinfo"><a href="{{ "#bio" | relURL }}">About</a></p>
 
 {{ with .GetPage "/sections/contact.md" }}
 <p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
 {{ end }}
 
-<p class="contactinfo"><a href="{{ "#research" | relURL }}">Research</a></p>
+<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Research</a></p>
 
 {{ with .GetPage "/sections/personal.md" }}
 <p class="lastcontactinfo"><a href="{{ "#personal" | relURL }}">Personal</a></p>
