@@ -1,10 +1,18 @@
 works:
-- title: "The Importance of Being Marginal: Gender Differences in Generosity"
-  pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
-  book: "American Economic Review Papers and Proceedings, May 2013"
-  coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
-  links:
-    - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
-      text: "Online Appendix"
-  abstract: >
-    Do men and women have different social preferences? Previous findings are contradictory. We provide a potential explanation using evidence from a field experiment. In a door-to-door solicitation, men and women are equally generous, but women become less generous when it becomes easy to avoid the solicitor. Our structural estimates of the social preference parameters suggest an explanation: women are more likely to be on the margin of giving, partly because of a less dispersed distribution of altruism. We find similar results for the willingness to complete an unpaid survey: women are more likely to be on the margin of participation.
+  - title: "Remote Work, Selection, and Wage Setting"
+    pdflink: ""   # add later, e.g. "/pdf/Ojha_RemoteWork_JMP.pdf"
+    book: "Job Market Paper"
+    coauthors: ""
+    links: []
+    abstract: >
+      Remote work expanded sharply after 2020 and remains a durable feature of the U.S. labor market, raising
+      new questions about how wages are set in hybrid work environments. Using American Community Survey data
+      from 2017–2023, I study the evolution of the remote–on-site wage gap and disentangle treatment effects from
+      time-varying selection into remote work. Reduced-form estimates show a reversal from a pre-2020 remote
+      wage penalty to a post-2020 wage premium, but coefficient-stability diagnostics and Heckman selection
+      models indicate substantial shifts in sorting around the pandemic, with evidence of negative selection into
+      remote work. In contrast, instrumental-variables estimates exploiting occupation-level telework feasibility
+      identify a positive causal effect of remote work on earnings. I reconcile these findings and connect wage
+      evidence to remote adoption using a sufficient-statistic framework that maps sectoral wage moments and
+      amenities into remote participation; a path-independent decomposition suggests amenities explain a large
+      share of the post-2020 rise in remote work.
