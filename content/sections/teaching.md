@@ -1,13 +1,13 @@
 **Boston College**
 
-**Econometrics**
-- **Spring 2026** — *Econometrics Lab* — Teaching Assistant  
-- **Fall 2025** — *Econometrics Lab* — Teaching Assistant  
+**Teaching Fellow**
 
-**Statistics**
-- **Spring 2025** — *Statistics Lab* — Teaching Assistant  
-- **Fall 2024** — *Statistics Theory* — Teaching Fellow  
+- *Principles of Economics (Asynchronous)* — Summer 2025  
+- *Statistics Theory* — Fall 2024  
+- *Health Economics (Asynchronous)* — Summer 2024  
 
-**Principles / Field**
-- **Summer 2025** — *Principles of Economics (Asynchronous)* — Teaching Fellow  
-- **Summer 2024** — *Health Economics (Asynchronous)* — Teaching Fellow
+**Teaching Assistant**
+
+- *Econometrics Lab* — Spring 2026  
+- *Econometrics Lab* — Fall 2025  
+- *Statistics Lab* — Spring 2025
