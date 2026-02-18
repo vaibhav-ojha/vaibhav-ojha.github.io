@@ -1,5 +1,16 @@
 works:
 
-- title: "The Long-Run Impacts of Corporal Punishment in Schools"
-  coauthors: "Maria Petrova and Brian Wheaton"
+- title: "Does Marriage to a Native Citizen Raise Immigrant Wages? Evidence from U.S. Census/ACS and the DACA Era"
+  coauthors: ""
+  abstract: >
+    This project studies whether marriage to a native-born citizen improves immigrants’ labor-market
+    outcomes in the United States. Using IPUMS Census 2000 and ACS 2001–2022 microdata on married
+    foreign-born men, I estimate OLS and IV models of wages and employment. Identification instruments
+    native-spouse matches with lagged MSA-level immigrant-women shares and exploits the 2012 DACA
+    announcement as a policy break. Preliminary results indicate limited effects before 2012 but economically
+    meaningful post-2012 gains in employment and suggestive wage improvements. Mechanism analysis
+    points to improved metro access and language integration rather than naturalization.
 
+  links:
+    - url: "/pdf/The_Wage_Effects_of_Marriage_to_a_Native.pdf"
+      text: "Draft"
