@@ -1,11 +1,16 @@
 works:
-- title: "Financial Incentives, Health Screening, and Selection into Mental Health Care: Experimental Evidence from College Students in India"
-  pdflink: "/pdf/Financial Incentives, Health Screening, and Selection (Breza et al., 2026).pdf"
-  coauthors: "Emily Breza, Kevin Carney, Vijaya Raghavan, Kailash Rajah, Thara Rangaswamy, Frank Schilbach, Sobia Shadbar"
-  note: "Current Version: Jan 2026"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/15379"
-      text: "Pre-Registration"
-  abstract: >
-      In an RCT with college students in Chennai (N=340), we test how modest financial incentives and personalized feedback affect the uptake and targeting (by symptom severity) of free therapy. Despite 56% of students screening positive for at least mild depression or anxiety, only 3% in the control group took up therapy. A small cash incentive increased appointments by 9 percentage points (p = 0.06) on average without substantially affecting targeting. Personalized feedback and recommendations based on a mental health screening tool significantly improved targeting while keeping overall take-up largely unchanged. Combining these two treatments achieved both higher take-up and improved targeting, by increasing appointments among symptomatic individuals by 21 pp (p < 0.01) without affecting uptake by asymptomatic individuals. These findings suggest that low-cost incentives coupled with screening information can effectively increase uptake while allocating limited mental health care resources to those with greater need.
-
+  - title: "Breaking Caste Boundaries? Evidence on Village Head Identity and Occupational Structure"
+    pdflink: ""   # add later, e.g. "/pdf/Ojha_BreakingCasteBoundaries.pdf"
+    book: "Working Paper"
+    coauthors: ""
+    links: []
+    abstract: >
+      This paper examines how caste-based political leadership affects occupational mobility and segregation in
+      rural India. Leveraging the exogenous rotation of Panchayat seat reservations mandated under Article 243D
+      of the Constitution, I identify the causal effect of village head caste identity on labor market outcomes.
+      Descriptive patterns suggest high-caste leadership reinforces intergenerational persistence in caste-linked
+      work, while low-caste leadership is associated with transitions into service and professional roles. Regression
+      results are consistent with these patterns: villages led by low-caste heads exhibit lower caste segregation
+      (measured by the Duncan Index) and greater occupational mobility, including in instrumental-variable
+      specifications. The findings highlight both representation effects and a role for demographic composition,
+      contributing to broader debates on caste norms, inequality, and economic development.
